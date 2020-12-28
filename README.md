@@ -4,7 +4,7 @@ bash provisioning script running on ubuntu 18.0.4
 
 Tools for Nodejs development environment including: Nodjs and associated NPM, nginx, MongoDB, Angular CLI, and Docker Community Edition.
 
--------------------------------------------------------------- ***  *** -------------------------------------------------------------- 
+---------------------------------------------------------------------------------------------------------------------------------------
 
 - Clone this repository and run cmder or git bash in your folder, then run 'vagrant up'
 
@@ -15,8 +15,7 @@ mongoDB:                  go to http://localhost:27017/   #It looks like you are
 angular/cli app-project:  go to http://localhost:4200/
 
 #view your sync folder directory on: cd /vagrant/projects/app-project/
-
--------------------------------------------------------------- ***  *** -------------------------------------------------------------- 
+----------------------------------------------------------------------
 
 If you want going to vagrant ssh, run another cmder with 'vagrant ssh'
 and then, run: 
@@ -27,7 +26,7 @@ npm associated:     $ npm --version       #6.14.8
 angular/cli:        $ ng --version        # 11.0.5
 
 #mongodb:        #https://www.digitalocean.com/community/tutorials/how-to-secure-mongodb-on-ubuntu-18-04   
-#----------securise MongoDB create: create a useradmin ---------- Access control is not enabled for the database ----------#
+#----------securise MongoDB create: create a useradmin - Access control is not enabled for the database 
 $ mongo
 $ show dbs
 
@@ -102,5 +101,5 @@ $ sudo docker images
 #REPOSITORY    TAG       IMAGE ID       CREATED         SIZE
 #hello-world   latest    bf756fb1ae65   12 months ago   13.3kB
 
----------------------------------------------------------------------
+----------------------------------------------------------------------------------------- 
 * Make sure you have Vagrant and VirtualBox installed
