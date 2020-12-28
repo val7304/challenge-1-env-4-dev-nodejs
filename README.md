@@ -97,7 +97,7 @@ docker run hello-world
 $ docker -v
 
 #view images downloaded during installation:
-$ sudo docker images
+$ sudo docker images 
 
 #REPOSITORY    TAG       IMAGE ID       CREATED         SIZE
 #hello-world   latest    bf756fb1ae65   12 months ago   13.3kB
