@@ -27,7 +27,7 @@ npm associated:     $ npm --version       #6.14.8
 angular/cli:        $ ng --version        # 11.0.5
 
 #mongodb:        #https://www.digitalocean.com/community/tutorials/how-to-secure-mongodb-on-ubuntu-18-04   
-# ----------securise MongoDB create: create a useradmin ---------- Access control is not enabled for the database ----------#
+#----------securise MongoDB create: create a useradmin ---------- Access control is not enabled for the database ----------#
 $ mongo
 $ show dbs
 
@@ -48,15 +48,15 @@ $ db.createUser(
 
 #Enter password:
 #Successfully added user: {
-        #"user" : "valAdmin",
-       #"roles" : [
-                #{
-                        #"role" : "userAdminAnyDatabase",
-                       #"db" : "admin"
-               #},
-                #"readWriteAnyDatabase"
-        #]
-  #}
+        "user" : "valAdmin",
+       "roles" : [
+                {
+                        "role" : "userAdminAnyDatabase",
+                       "db" : "admin"
+               },
+                "readWriteAnyDatabase"
+        ]
+  }
   
 $ exit
 #By
