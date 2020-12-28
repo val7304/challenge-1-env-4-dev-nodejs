@@ -48,15 +48,15 @@ $ db.createUser(
 
 #Enter password:
 #Successfully added user: {
- #       "user" : "valAdmin",
- #      "roles" : [
- #               {
- #                       "role" : "userAdminAnyDatabase",
- #                      "db" : "admin"
- #              },
- #               "readWriteAnyDatabase"
- #       ]
- # }
+        #"user" : "valAdmin",
+       #"roles" : [
+                #{
+                        #"role" : "userAdminAnyDatabase",
+                       #"db" : "admin"
+               #},
+                #"readWriteAnyDatabase"
+        #]
+  #}
   
 $ exit
 #By
