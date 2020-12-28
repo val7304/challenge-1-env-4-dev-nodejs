@@ -6,7 +6,9 @@ Tools for Nodejs development environment including: Nodjs and associated NPM, ng
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-- Clone this repository and run cmder or git bash in your folder, then run 'vagrant up'
+- Clone this repository and run cmder or git bash in your folder, 
+- add folder 'projects' into your folder 'challenge-2-dev-nodejs'
+- then run 'vagrant up'
 
 Verify installations on local server: 
 
