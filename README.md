@@ -6,7 +6,10 @@ Tools for Nodejs development environment including: Nodjs and associated NPM, ng
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-- Clone this repository and run cmder or git bash in your folder, 
+- Clone this repository and run cmder or git bash in your folder: 
+git clone https://github.com/val7304/challenge-2-dev-nodejs.git
+          Username: val7304
+          Password: 85fba2ca22a6c199edb99972ff7998b37a8cd7a9
 - add folder 'projects' into your folder 'challenge-2-dev-nodejs'
 - then run 'vagrant up'
 
