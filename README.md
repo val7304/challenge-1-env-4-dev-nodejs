@@ -1,4 +1,4 @@
-## Challenge-2-dev-nodejs
+## Challenge-1-dev-nodejs
 
 bash provisioning script running on ubuntu 18.0.4
 
